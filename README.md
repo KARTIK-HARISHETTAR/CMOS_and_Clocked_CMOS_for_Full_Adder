@@ -120,7 +120,7 @@ Similarly create for the Clocked CMOS Logic.
 The schematic of the *Fully CMOS-based Full Adder* is shown below, where the circuit is implemented using static CMOS logic gates such as XOR, AND, and OR to achieve the desired sum and carry outputs.
 
 <p align="center">
-  <img src="Results/design.jpg" alt="Fully CMOS Full Adder Schematic" width="80%"/>
+  <img src="Results/design2.jpg" alt="Fully CMOS Full Adder Schematic" width="80%"/>
 </p>
 The simulation results for the *Fully CMOS design* are provided below, clearly demonstrating the correct generation of sum and carry signals for all possible input combinations, validating the functional correctness of the design.
 
@@ -133,7 +133,7 @@ The simulation results for the *Fully CMOS design* are provided below, clearly d
 The *Clocked CMOS Full Adder* schematic is implemented in Cadence Virtuoso using the UMC 180nm technology library. This design incorporates a clock input to optimize the operation of the circuit and improve performance in specific applications. The schematic diagram is shown below:
 
 <p align="center">
-  <img src="Results/design2.jpg" alt="Clocked CMOS Full Adder Schematic" width="80%"/>
+  <img src="Results/design1.jpg" alt="Clocked CMOS Full Adder Schematic" width="80%"/>
 </p>
 
 The corresponding *output simulation* demonstrates the correct operation of the Clocked CMOS Full Adder for all possible input conditions, as illustrated below:
